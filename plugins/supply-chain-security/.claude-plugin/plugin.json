@@ -1,0 +1,31 @@
+{
+    "name": "supply-chain-security",
+    "version": "0.1.0",
+    "description": "Supply-chain security skills for research software projects. Covers 2025–2026 threat campaigns (Shai-Hulud, TeamPCP, axios, LiteLLM), hardened GitHub Actions release workflows, SHA-pinned actions, OIDC Trusted Publishing, lockfile hygiene, lifecycle-script disabling, SLSA provenance, and incident response runbooks.",
+    "category": "security",
+    "strict": false,
+    "author": {
+        "name": "SSEC Research Team",
+        "url": "https://github.com/uw-ssec"
+    },
+    "homepage": "https://github.com/uw-ssec/rse-plugins",
+    "repository": "https://github.com/uw-ssec/rse-plugins",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "supply-chain-security",
+        "github-actions",
+        "sha-pinning",
+        "oidc",
+        "trusted-publishing",
+        "lockfile",
+        "sbom",
+        "slsa",
+        "provenance",
+        "dependency-security",
+        "threat-awareness",
+        "pwn-request",
+        "npm",
+        "pypi",
+        "research-software"
+    ]
+}
